@@ -1,1 +1,1 @@
-# hotel-site-with-stickynavs
+# hotel_site
