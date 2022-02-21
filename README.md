@@ -22,3 +22,8 @@ Credits:
 
 4. restaurant: https://www.pexels.com/photo/photo-of-tables-and-chairs-3534750/
 
+5. villa-iceland: https://unsplash.com/photos/VYFGc4Ggut8
+
+6. suite: https://unsplash.com/photos/fAcloeaPA_c
+
+7. cottage: https://unsplash.com/photos/rDyZ8t-MYxU

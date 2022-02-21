@@ -5,8 +5,9 @@
 }
 
 body{
-    min-height: 1000vh;
+    min-height: 500vh;
     background-color: rgb(46, 46, 46);
+    scroll-behavior: smooth;
 }
 
 header{
@@ -66,8 +67,8 @@ header.sticky a{
 
 .about{
     height: 700px;
-    border-bottom: 1px white solid;
     display: flex;
+    background-color: black;
 }
 
 .img-container{
@@ -108,10 +109,10 @@ img{
 }
 
 .restaurants{
-    border-bottom: 1px solid white;
     padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 30px;
+    background-color: rgb(24, 23, 23);
 }
 #two.img-container{
     height: auto;
@@ -139,7 +140,66 @@ img{
     text-align: center;
 }
 
+/* Room Selections */
 
+.rooms{
+    padding-bottom: 50px;
+}
+
+#three.title{
+    font-size: 110px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.passage p{
+    line-height: 40px;
+}
+
+.rooms .content-container{
+    min-height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-top: 50px;
+    height: 700px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgb(226, 224, 224);
+    text-align: center;
+}
+
+.card .room-title{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.card img{
+    width: 350px;
+    transition: 0.07s ease;
+}
+
+.card img:hover{
+    transform: scale(1.05);
+}
+
+/* Reservation page */
+.reservations{
+    height: 110vh;
+    background-color: rgb(189, 189, 189);
+}
+
+
+/* Footer */
+
+footer{
+    height: 50px;
+}
 
 
 
