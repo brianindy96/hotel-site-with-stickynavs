@@ -70,7 +70,6 @@ header.sticky a{
     display: flex;
 }
 
-
 .img-container{
     flex: 1;
     height: 700px;
@@ -101,17 +100,47 @@ img{
     height: auto;
 }
 
+/* Restaurants page */
+
+
+.restaurants .title{
+    margin-left: 10px;
+}
+
+.restaurants{
+    border-bottom: 1px solid white;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
 #two.img-container{
     height: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 20px;
 }
 
 #two.img-container img{
     height: auto;
     width: 400px;
+    transition: 0.07s ease;
 }
+
+#two.img-container img:hover{
+    transform: scale(1.1);
+}
+
+.caption{
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
 
 
 
