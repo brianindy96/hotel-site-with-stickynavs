@@ -5,7 +5,7 @@
 }
 
 body{
-    min-height: 500vh;
+    height: 480vh;
     background-color: rgb(46, 46, 46);
     scroll-behavior: smooth;
 }
@@ -315,7 +315,7 @@ img{
 /* Footer */
 
 footer{
-    height: 50px;
+    
 }
 
 
