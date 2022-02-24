@@ -195,6 +195,15 @@ img{
     transform: scale(1.05);
 }
 
+.description{
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+
+.description li{
+    list-style: none;
+}
+
 /* Reservation page */
 .reservations{
     height: 100vh;
