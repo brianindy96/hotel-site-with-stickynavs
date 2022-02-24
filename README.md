@@ -27,3 +27,6 @@ Credits:
 6. suite: https://unsplash.com/photos/fAcloeaPA_c
 
 7. cottage: https://unsplash.com/photos/rDyZ8t-MYxU
+
+8. Icons from: flaticon.com
+

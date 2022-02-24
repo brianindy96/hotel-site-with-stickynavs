@@ -217,9 +217,11 @@ img{
     position: absolute;
     background-color: black;
     width: 500px;
-    top: 100px;
+    height: 600px;
+    top: 50px;
     left: 100px;
     z-index: 10;
+    padding-bottom: 50px;
 }
 
 .reservations .container .contactForm{
@@ -244,6 +246,7 @@ img{
 
 .inputBox.w50 input{
     width: 300px;
+    height: 30px;
 }
 
 .inputBox.w100 input.text{
@@ -272,6 +275,36 @@ img{
     width: 100px;
     padding-left: 35px;
 }
+
+.contact-block{
+    padding: 40px;
+}
+
+.contact-block h2{
+    font-size: 35px;
+}
+
+
+.info img,
+.sci li img{
+    width: 35px;
+    height: 35px;
+}
+
+.info .text{
+    color: white;
+}
+
+.sci li a{
+    cursor: pointer;
+}
+
+.sci{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
 
 
 
