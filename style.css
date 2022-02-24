@@ -5,7 +5,7 @@
 }
 
 body{
-    height: 480vh;
+    min-height:500vh;
     background-color: rgb(46, 46, 46);
     scroll-behavior: smooth;
 }
@@ -227,9 +227,9 @@ img{
 .reservations .container .contactForm{
     background-color: white;
     z-index: 1;
-    width: 1500px;
-    height: 800px;
-    padding-left: 250px;
+    width: 1400px;
+    height: 750px;
+    padding-left: 450px;
     padding-top: 50px;
 }
 
@@ -315,6 +315,7 @@ img{
 /* Footer */
 
 footer{
+    height: 50px;
     
 }
 
