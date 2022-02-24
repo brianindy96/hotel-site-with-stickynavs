@@ -5,11 +5,11 @@ Making a hotel-full landing page, with main focus on applying javascripts on cer
 
 Reflections: 
 
-1.
+1. I try to add simple Javascript into each Project I do. 
 
-2.
+2. I'm more comfortable with CSS and HTML everyday. I try to get inspirations design for my reservation forms and mock it as close as I can. But there still seems to be trouble with the responsiveness. We'll get to that soon after I finish with my Ruby courses. 
 
-3.
+3. In the next project, I'll add in more interesting Javascripts for my website. Probably will get inspired from other Developer's work first, and try to implement it into my Project as much as I can (without copying and paste the code and learning nothing from it.)
 
 
 Credits: 
