@@ -227,9 +227,9 @@ img{
 .reservations .container .contactForm{
     background-color: white;
     z-index: 1;
-    width: 1000px;
-    height: 700px;
-    padding-left: 200px;
+    width: 1500px;
+    height: 800px;
+    padding-left: 250px;
     padding-top: 50px;
 }
 
